@@ -1,2 +1,3 @@
 # Material-Diplomado
-Repositorio para la difusión científica 
+
+Material didáctico del Modulo III. Repositorio para la difusión científica
